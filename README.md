@@ -1,5 +1,4 @@
 # IT-ticket-analysis
-The main objective of this project is to analyze IT ticket data to assess support team performace & identify inefficiencies in resolution time and satisfaction.
 
 1.Built an interactive Excel Dashboard using pivot tables, slicers, and charts to monitor key KPIs.
 2.Discovered patterns such as ticket volume increased steadily over time, low-performing agents, and categories with longer resolution times.
